@@ -10,6 +10,6 @@ Teaser Trailer:
 
 https://github.com/user-attachments/assets/7fac359e-fa07-4b1d-b13b-c2a6724da6dc
 
-Try the application with this demo APK!: 
+Try the application with this demo APK!: [Download](https://github.com/Legacy-XR-Studio/Legacy/releases/tag/v0)
 (alpha build being prepped for early access to be continually improved, APK for demonstrative purposes)
 
